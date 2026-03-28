@@ -1,0 +1,61 @@
+# Télépopmusik – Breathe
+
+> **歌詞登録ステータス：プレーン歌詞のみ**
+
+```
+I brought you something close
+to me
+And left for something new
+See through your head
+You haunt my dreams
+There's nothing to do but
+believe
+Just believe
+Just breathe
+Another day
+Just believe
+Another day
+Just breathe
+Another day
+Just believe
+Another day
+Just breathe
+I'm used to it by now
+Another day
+Just believe
+Just breathe
+Just believe
+Just breathe
+Lying in my bed
+Another day
+Staring at the ceiling
+Just breathe
+Another day
+Another day
+Just believe
+Another day
+I'm used to it by now
+I'm used to it by now
+Just breathe
+Just believe
+Just breathe
+Just believe
+Just believe
+Just breathe
+Just believe
+Another day
+Just believe
+Another day
+Another day
+Just believe
+Another day
+Just breathe
+Another day
+I do believe
+Another day
+So hard to breathe
+Another day
+Not so hard to believe
+Another day
+Another day
+```
