@@ -1,0 +1,152 @@
+{
+  "version": 1,
+  "base_track": "Breathe",
+  "base_artist": "Télépopmusik",
+  "createdAt": "2026-03-28T14:02:44.246285Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Breathe",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/01_Breathe_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Breathe (2007 Remaster)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/02_Breathe_(2007_Remaster)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Breathe (Album Version)",
+      "artist": "Faith Hill",
+      "has_synced": true,
+      "path": "select/03_Breathe_(Album_Version)_Faith_Hill.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "I Breathe In, I Breathe Out",
+      "artist": "Chris Cagle",
+      "has_synced": true,
+      "path": "select/04_I_Breathe_In,_I_Breathe_Out_Chris_Cagle.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "I Breathe In, I Breathe Out",
+      "artist": "Chris Cagle",
+      "has_synced": true,
+      "path": "select/05_I_Breathe_In,_I_Breathe_Out_Chris_Cagle.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Just Breathe",
+      "artist": "Willie Nelson",
+      "has_synced": true,
+      "path": "select/06_Just_Breathe_Willie_Nelson.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Breathe (feat. Colbie Caillat)",
+      "artist": "Taylor Swift feat. Colbie Caillat",
+      "has_synced": true,
+      "path": "select/07_Breathe_(feat._Colbie_Caillat)_Taylor_Swift_feat._Colbie_Caillat.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Breathe (Feat. Colbie Caillat)",
+      "artist": "Taylor Swift",
+      "has_synced": true,
+      "path": "select/08_Breathe_(Feat._Colbie_Caillat)_Taylor_Swift.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Harder To Breathe",
+      "artist": "Maroon 5",
+      "has_synced": true,
+      "path": "select/09_Harder_To_Breathe_Maroon_5.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Speak To Me/Breathe (Breathe In The Air)",
+      "artist": "Pink Floyd",
+      "has_synced": false,
+      "path": "select/10_Speak_To_Me_Breathe_(Breathe_In_The_Air)_Pink_Floyd.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Breathe",
+      "artist": "LUNA",
+      "has_synced": true,
+      "path": "select/11_Breathe_LUNA.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Breathe Correct",
+      "artist": "Royal Coda",
+      "has_synced": true,
+      "path": "select/12_Breathe_Correct_Royal_Coda.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Breathe In",
+      "artist": "Frou Frou",
+      "has_synced": true,
+      "path": "select/13_Breathe_In_Frou_Frou.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Breathe In (Watkins Radio edit)",
+      "artist": "Frou Frou",
+      "has_synced": false,
+      "path": "select/14_Breathe_In_(Watkins_Radio_edit)_Frou_Frou.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Breathe In (Watkins vocal mix)",
+      "artist": "Frou Frou",
+      "has_synced": true,
+      "path": "select/15_Breathe_In_(Watkins_vocal_mix)_Frou_Frou.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "Breathe On Me - Jacques Lu Cont Mix",
+      "artist": "Britney Spears",
+      "has_synced": true,
+      "path": "select/16_Breathe_On_Me_-_Jacques_Lu_Cont_Mix_Britney_Spears.lrc"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Breathe On Me (Jacques Lu Cont Mix)",
+      "artist": "Britney",
+      "has_synced": true,
+      "path": "select/17_Breathe_On_Me_(Jacques_Lu_Cont_Mix)_Britney.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Breathe",
+      "artist": "Télépopmusik",
+      "has_synced": false,
+      "path": "select/pl_01_Breathe_Télépopmusik.txt"
+    }
+  ]
+}
